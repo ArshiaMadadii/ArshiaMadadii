@@ -49,8 +49,6 @@ A passionate hardware engineer with expertise in embedded systems and IoT. I lov
 ### 🏢 **Winiapp Research Team**
 [![Winiapp](https://img.shields.io/badge/Winiapp-000000?style=for-the-badge&logo=windows&logoColor=white)](https://winiapp.com/)
 
-![Winiapp Logo](https://winiapp.com/wp-content/uploads/2023/01/New_Logo_Jan10-3.jpg)
-
 I am currently working as part of the **Winiapp Research Team**, where we focus on developing innovative IoT devices. Our team is dedicated to pushing the boundaries of hardware and software integration to create cutting-edge solutions for the Internet of Things.
 
 ---
@@ -85,5 +83,3 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
 ---
 
 <p align="center">
-  <img src="https://github.com/ArshiaMadadii/ArshiaMadadii/raw/main/.github/workflows/logo.png" alt="Logo" width="200"/>
-</p>
